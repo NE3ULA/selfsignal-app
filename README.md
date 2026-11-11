@@ -25,4 +25,5 @@ Then open the printed URL. Add to home screen for the app experience (PWA).
 Self-reflection prompts, not a validated psychological assessment. User entries never leave the device; a full delete lives on the History screen.
 
 ## Status
-Plan B standalone build (2026-11-10). MVP covers all six archetypes end-to-end. Whether MadeThis later recreates it on selfsignal.madethis.app is an open decision.
+Plan B standalone build (2026-11-10). MVP covers all six archetypes end-to-end.
+Live: https://ne3ula.github.io/selfsignal-app/ (GitHub Pages, repo made public at Jesse's direction 2026-11-10). Whether MadeThis later recreates it on selfsignal.madethis.app is an open decision.
